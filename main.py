@@ -169,12 +169,4 @@ for x in range(0, 18):
     crtD(str(x + 1), mat6[x], gra6, id6, pan6)
 for x in range(0, 14):
     crtD(str(x + 1), mat7[x], gra7, id7, pan7)
-for x in range(0, 10):
-    crtD(str(x + 1), mat8[x], gra8, id8, pan8)
-for x in range(0,11):
-        crtD(str(x+1),mat13[x],gra13,id13,pan13)
-for x in range(0,11):
-        crtD(str(x+1),mat14[x],gra14,id14,pan14)
-for x in range(0,11):
-        crtD(str(x+1),mat2[x],gra2,id2,pan2)
-
+for x
